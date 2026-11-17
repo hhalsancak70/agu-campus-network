@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Large test recordings (kept out of the repo)
+*.mov
+*.mp4
+
+# Office lock / temp files
+~$*
+*.tmp
